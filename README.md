@@ -1,6 +1,9 @@
 . 👋 Olá, sou @rmassariol
+<br>
 . 👀 Estou interessado em desenvolvimento de software
+<br>
 . 🌱 Atualmente estou aprendendo golang
+<br>
 . 📫 Como entrar em contato comigo rmassariol@gmail.com
 
 <!---
